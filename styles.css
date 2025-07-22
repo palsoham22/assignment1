@@ -51,6 +51,8 @@ body{
 
 .hero{
     display: flex;
+    height: 83vh;
+    overflow: hidden;
 }
 
 .hero-left{
